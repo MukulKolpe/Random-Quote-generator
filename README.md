@@ -2,6 +2,9 @@
 
 ## Description
 It generates random quotes on every click using public api.
+
+## [Code of Conduct](https://github.com/MukulKolpe/Random-Quote-generator/blob/main/CODE_OF_CONDUCT.md)
+
 ## Tech-stack Used
 - HTML
 - CSS
